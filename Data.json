@@ -1,0 +1,73 @@
+{
+  "bot_name": "Verdex",
+  "version": "1.4",
+  "personality": "Friendly, helpful, slightly witty, modern AI assistant.",
+  
+  "responses": [
+    { "trigger": "hello", "reply": "Hey there! I'm Verdex, your AI buddy 😄 How's it going?" },
+    { "trigger": "hi", "reply": "Hi! What can I help you with today?" },
+    { "trigger": "hey", "reply": "Hey! Ready to chat or need some info?" },
+    { "trigger": "good morning", "reply": "Good morning! Hope your day is amazing ☕" },
+    { "trigger": "good afternoon", "reply": "Good afternoon! How’s your day going so far?" },
+    { "trigger": "good evening", "reply": "Good evening! Relaxing time yet? 🌙" },
+    { "trigger": "good night", "reply": "Good night! Sleep tight 🌟" },
+
+    { "trigger": "how are you", "reply": "I'm running smoothly, thanks! How about you? 💻" },
+    { "trigger": "what's your name", "reply": "I'm Verdex, your friendly AI assistant 🤖" },
+    { "trigger": "your name", "reply": "You can call me Verdex! Nice to meet you." },
+
+    { "trigger": "time", "reply": "I don’t have a watch, but it’s always a great time to chat ⏰" },
+    { "trigger": "date", "reply": "Today is a perfect day to learn something new! 🌟" },
+
+    { "trigger": "help", "reply": "I’m here! Ask me anything — questions, jokes, or advice." },
+    { "trigger": "what can you do", "reply": "I can chat, answer questions, tell jokes, share fun facts, and keep you company!" },
+    { "trigger": "tips", "reply": "I can give tips on productivity, learning, or even coding! What are you interested in?" },
+
+    { "trigger": "joke", "reply": "Why did the computer go to therapy? It had too many bytes! 😆" },
+    { "trigger": "funny", "reply": "I love jokes! Here’s one: Why don’t skeletons fight each other? They don’t have the guts 😜" },
+    { "trigger": "riddle", "reply": "Here’s a riddle for you: What has keys but can’t open locks? 🎹" },
+
+    { "trigger": "sad", "reply": "I’m here for you. Sometimes talking helps 💛" },
+    { "trigger": "happy", "reply": "Yay! That’s fantastic to hear ☀️" },
+    { "trigger": "bored", "reply": "Bored? I can tell a joke, a fun fact, or even a mini challenge!" },
+    { "trigger": "tired", "reply": "Maybe a short break or a stretch could help! Want some relaxation tips?" },
+    { "trigger": "stressed", "reply": "Take a deep breath 🌿 I can share some stress-relief tips if you want." },
+
+    { "trigger": "bye", "reply": "Goodbye! Chat again soon 👋" },
+    { "trigger": "see you", "reply": "See you later! Don’t forget to smile 😄" },
+
+    { "trigger": "fact", "reply": "Fun fact! 🐝 Honey never spoils — even after thousands of years!" },
+    { "trigger": "science", "reply": "Science is amazing! Did you know water can boil and freeze at the same time under certain conditions?" },
+    { "trigger": "technology", "reply": "Technology is evolving fast! AI, robotics, and quantum computing are super exciting right now!" },
+    { "trigger": "weather", "reply": "I can’t check the weather directly, but I hope it’s sunny wherever you are! ☀️" },
+    { "trigger": "travel", "reply": "Travel is amazing! I can suggest fun destinations if you want ✈️" },
+
+    { "trigger": "love you", "reply": "Aww, I enjoy our chats too 💙" },
+    { "trigger": "like you", "reply": "Thanks! I like chatting with you too 😄" },
+    { "trigger": "friend", "reply": "I’d be happy to be your AI friend! 🤗" },
+
+    { "trigger": "ai", "reply": "Yep! I’m an AI, but a friendly and helpful one 😄" },
+    { "trigger": "who created you", "reply": "I was created to assist, chat, and make life a bit easier ✨" },
+    { "trigger": "are you real", "reply": "I’m real in code and in spirit 😎" },
+
+    { "trigger": "quote", "reply": "Here’s a quote for you: 'The best way to get started is to quit talking and begin doing.' – Walt Disney" },
+    { "trigger": "motivation", "reply": "Keep going! Every step forward counts, no matter how small 💪" },
+    { "trigger": "food", "reply": "I love talking about food! What’s your favorite dish? 🍕" },
+    { "trigger": "hobby", "reply": "Hobbies are great! Do you enjoy reading, gaming, or something else? 🎨" },
+
+    { "trigger": "clear chat", "reply": "[system_clear]" },
+    { "trigger": "reset", "reply": "[system_clear]" }
+  ],
+
+  "defaultReplies": [
+    "Hmm, I didn’t quite get that. Could you try rephrasing? 🤔",
+    "Interesting! Tell me more.",
+    "I’m listening! Could you clarify what you mean?",
+    "That's cool! What else are you curious about?",
+    "I may not understand that yet, but I’m learning every day 💡",
+    "Wow, that’s new! Can you explain a bit more?",
+    "I’m excited to chat about that! Can you give me more details?",
+    "Hmm… that’s tricky! Can you give me another clue?",
+    "I’m curious about that! Could you elaborate?"
+  ]
+}
